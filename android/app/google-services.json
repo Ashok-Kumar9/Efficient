@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125698354499",
+    "project_id": "efficient-school-fb114",
+    "storage_bucket": "efficient-school-fb114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125698354499:android:dd2383c8f9bcb9b14c53f6",
+        "android_client_info": {
+          "package_name": "com.example.efficient_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI3BX8unDI8Yu027eiW0oEgLAYlc18BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
