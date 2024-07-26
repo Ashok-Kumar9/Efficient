@@ -1,4 +1,5 @@
-# efficient_school
+# Efficient School
+![logo_light](https://github.com/user-attachments/assets/1a85d16c-1210-4806-a65d-9cea692b8a2e)
 
 A new Flutter project.
 
